@@ -19,7 +19,7 @@
 
 ## Содержание
 
-- [Surf Swift Style Guide](#surf-swift-style-guide)
+- [MAD Swift Style Guide](#surf-swift-style-guide)
   - [Цели](#%D1%86%D0%B5%D0%BB%D0%B8)
   - [Принципы](#%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D1%8B)
   - [Содержание](#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)
@@ -37,7 +37,7 @@
 
 _Вы можете добавить эти настройки воспользовавшись [этим скриптом](resources/xcode_settings.bash), как вариант, его вызов можно добавить в "Run Script" build phase._
 
-* <a id='column-width'></a><a href='#column-width'>#</a> **Каждая строка должна иметь максимальную длину в 120 символов.** [![SwiftLint: line_length](https://img.shields.io/badge/SwiftLint-line__length-217D89.svg)](https://github.com/realm/SwiftLint/blob/master/Rules.md#line-length)
+* <a id='column-width'></a><a href='#column-width'>#</a> **Каждая строка должна иметь максимальную длину в 140 символов.** [![SwiftLint: line_length](https://img.shields.io/badge/SwiftLint-line__length-217D89.svg)](https://github.com/realm/SwiftLint/blob/master/Rules.md#line-length)
 
 * <a id='spaces-over-tabs'></a><a href='#spaces-over-tabs'>#</a> **Используйте 4 пробела для отступов.**
 
