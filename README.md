@@ -1,4 +1,4 @@
-# Surf Swift Style Guide
+# MAD Swift Style Guide
 
 ## Цели
 
